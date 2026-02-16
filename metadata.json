@@ -1,0 +1,5 @@
+{
+  "name": "Well-Tegra Intervention Planner",
+  "description": "An advanced simulation of a data-driven well intervention planning platform. It features a multi-step planner with an AI advisor and a realistic live operation view with distinct physics for Coiled Tubing, E-Line, and Slickline conveyance methods.",
+  "requestFramePermissions": []
+}
